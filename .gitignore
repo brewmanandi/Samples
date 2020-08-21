@@ -2,3 +2,5 @@
 RSSReader/.DS_Store
 
 .DS_Store
+config.bat
+node_modules
